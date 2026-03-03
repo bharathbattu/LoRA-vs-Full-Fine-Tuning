@@ -22,8 +22,6 @@ The same base model was fine-tuned on the same dataset with four configurations:
 
 ## Results Visualizations
 
-> Upload your generated figures to this repository and update the image paths below.
-
 ![Training Loss](images/training_loss_comparison.png)
 ![Peak GPU Memory](images/peak_gpu_memory_usage.png)
 ![Training Time](images/training_time_comparison.png)
